@@ -2,8 +2,9 @@
 
 ## Welcome
 
-##Git book:
+## Git book:
 https://robend1.gitbook.io/workspace/
+
 Thank you for your interest in the OWASP Developer Guide, the first major [Open Web Application Security Project (OWASP)](https://owasp.org) Document. 
 
 This is the development version of the OWASP Developer Guide, and will be converted into PDF & MediaWiki for publishing when complete. 
